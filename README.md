@@ -1,7 +1,8 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=7beunseo%&fontSize=90)<br><br>
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%207beunseo%20%20&fontAlign=20&fontSize=20&textBg=true&desc=Duksung%20Women%27s%20University%20%20Computer%20Engineering%&descAlign=60&descAlignY=50)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7beunseo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7beunseo&langs_count=8)](https://github.com/7beunseo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7beunseo)](https://github.com/7beunseo/github-readme-stats)
+
 
 
 <!--
