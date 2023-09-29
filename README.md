@@ -1,6 +1,10 @@
 ### Hi there 👋
-:)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=7beunseo%&fontSize=90)<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7beunseo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7beunseo&langs_count=8)](https://github.com/7beunseo/github-readme-stats)
+
+
+<!--
 **7beunseo/7beunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
