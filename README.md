@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <br><br><br>
 
 - 💬 tools <br><br>
-피그마..깃허브.. 머 이런거 나중에 추가사함 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br><br><br>
 - 🌱 I’m currently learning ...<br><br>
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
