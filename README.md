@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7beunseo&count_bg=%23758966&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)👋
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%207beunseo%20%20&fontAlign=20&fontSize=20&textBg=true&desc=Duksung%20Women%27s%20University%20%20Computer%20Engineering%&descAlign=60&descAlignY=50)<br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=7beunseo)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7beunseo&show_icons=true&theme=radical)
 
 
