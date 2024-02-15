@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋
+### Hi there 👋<br><br>
 
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F7beunseo&count_bg=%23758966&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=7beunseo)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7beunseo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7beunseo&show_icons=true&theme=transparent)<br><br>
 
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-🌱 I’m currently learning ...<br><br>
+### 🌱 I’m currently learning 🌱
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <br><br><br>
+  <br><br>
 
- 💬 tools <br><br>
+### ⚒️ tools ⚒️
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br><br><br>
