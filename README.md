@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋<br><br>
+### Hi 👋<br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=7beunseo)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
 
