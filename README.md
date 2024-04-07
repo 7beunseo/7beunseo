@@ -56,11 +56,11 @@
 |NAME| DESCRIPT |STACK|
 |:---|:---|:---|
 |[CODEQUEST](https://github.com/7beunseo/codequest)|덕성여자대학교 교수자 학습자 콜라보 |<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
-|[MY POLYGON](https://github.com/CornerTone/MyPolygon-BE)|제2회 코너톤|<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">|
+|[MY POLYGON](https://github.com/CornerTone/MyPolygon-BE)|코너 내부 해커톤 : 코너톤|<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">|
 |[손틈새로](https://github.com/a-minute-society/back-end-deploy)|멋쟁이사자처럼 운영진 연합 해커톤 : 트렌디톤|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
 |[덕멋 합격자 조회](https://github.com/2024-LIKELION-DS/2024-BABYLION-Backend)|2024 덕성여자대학교 멋쟁이사자처럼 합격자 조회(private)|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
 
 
-2️⃣ 0️⃣ 2️⃣ 4️⃣
+
 </div>
 
