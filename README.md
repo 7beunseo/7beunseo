@@ -10,6 +10,7 @@
 ### 🌱 I’m currently learning 🌱
 
 #### 📌 LANGUAGE
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -23,17 +24,43 @@
   
 #### 📌 BACKEND
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
   <br><br>
 
-### ⚒️ tools ⚒️
+### ⚒️ Tools ⚒️
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7beunseo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 2️⃣0️⃣2️⃣3️⃣
+
+|NAME| DESCRIPT |STACK|
+|:---|:---|:---|
+|[ MUSICSHARE](https://github.com/gardening-y/MusicShare_2)|덕성여자대학교 멋쟁이사자처럼 토이 프로젝트|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
+|[WELLNEVE](https://github.com/2023-HERETHON/2023-Herethon-8)|멋쟁이사자처럼 여대 연합 해커톤 : 여기톤|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
+|[Jagmuldan](https://github.com/place0/Jagmuldan)|멋쟁이사자처럼 중앙 해커톤|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
+|[WELLDUK](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-09)|덕성여자대학교 연합 해커톤|<img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white">|
+|[WISCOM](https://github.com/2023WISCOM/WISCOM-BE)|2023 덕성여자대학교 컴퓨터공학전공 온라인 졸업전시회|<img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
+|[밀리의 서재 클론코딩](https://github.com/likelion-2023-2/side-project/tree/back)|Spring Boot 스터디|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
+|[TOTREE](https://github.com/likelion-2023-2/Advent_calender/tree/back)|멋쟁이시자차럼 2학기 프로젝트|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
+|[ALCHANSO](https://github.com/InternetProgramming7/group7)|인터넷프로그래밍 팀 프로젝트|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
+
+### 2️⃣0️⃣2️⃣4️⃣
+|NAME| DESCRIPT |STACK|
+|:---|:---|:---|
+|[CODEQUEST](https://github.com/7beunseo/codequest)|덕성여자대학교 교수자 학습자 콜라보 |<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
+|[MY POLYGON](https://github.com/CornerTone/MyPolygon-BE)|제2회 코너톤|<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">|
+|[손틈새로](https://github.com/a-minute-society/back-end-deploy)|멋쟁이사자처럼 운영진 연합 해커톤 : 트렌디톤|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
+|[덕멋 합격자 조회](https://github.com/2024-LIKELION-DS/2024-BABYLION-Backend)|2024 덕성여자대학교 멋쟁이사자처럼 합격자 조회(private)|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
+
+
+2️⃣ 0️⃣ 2️⃣ 4️⃣
 </div>
+
