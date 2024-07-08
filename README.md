@@ -43,7 +43,7 @@
 |NAME| DESCRIPT |STACK|
 |:---|:---|:---|
 |[ MUSICSHARE](https://github.com/gardening-y/MusicShare_2)|덕성여자대학교 멋쟁이사자처럼 토이 프로젝트|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
-|[WELLNEVE](https://github.com/2023-HERETHON/2023-Herethon-8)|멋쟁이사자처럼 여대 연합 해커톤 : 여기톤|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
+|[WELLNEVE](https://github.com/2023-HERETHON/2023-Herethon-8)|멋쟁이사자처럼 2023 여대 연합 해커톤 : 여기톤|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
 |[Jagmuldan](https://github.com/place0/Jagmuldan)|멋쟁이사자처럼 중앙 해커톤|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
 |[WELLDUK](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-09)|덕성여자대학교 연합 해커톤|<img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white">|
 |[WISCOM](https://github.com/2023WISCOM/WISCOM-BE)|2023 덕성여자대학교 컴퓨터공학전공 온라인 졸업전시회|<img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
@@ -59,6 +59,7 @@
 |[손틈새로](https://github.com/a-minute-society/back-end-deploy)|멋쟁이사자처럼 운영진 연합 해커톤 : 트렌디톤|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
 |[덕멋 합격자 조회](https://github.com/2024-LIKELION-DS/2024-BABYLION-Backend)|2024 덕성여자대학교 멋쟁이사자처럼 합격자 조회(private)|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
 |[2024 근화제 찬란](https://github.com/2024-LIKELION-DS/DSFest_BE)|2024 근화제 '찬란' 웹사이트|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
+|[STUCK](https://github.com/2024-HERETHON/2024-Herethon-2)|멋쟁이사자처럼 2024 여대 연합 해커톤 : 여기톤|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
 
 
 
