@@ -62,6 +62,7 @@
 |[STUCK](https://github.com/2024-HERETHON/2024-Herethon-2)|멋쟁이사자처럼 2024 여대 연합 해커톤 : 여기톤|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
 
 
+![snake gif](https://github.com/7beunseo/7beunseo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
