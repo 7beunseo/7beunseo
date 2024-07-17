@@ -4,7 +4,6 @@
 
 ### Hi 👋<br><br>
 
-<img width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=7beunseo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=7beunseo&column=3&margin-w=15&margin-h=15)<br><br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7beunseo&show_icons=true&theme=transparent)<br><br>
 
@@ -43,7 +42,7 @@
 ### 2️⃣0️⃣2️⃣4️⃣
 |NAME| DESCRIPT |STACK|
 |:---|:---|:---|
-|[STORYTELLER](https://github.com/DS-StoryTeller/back-end)|2024 ICT 한이음 공모전 storyteller|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">|
+|[STORYTELLER](https://github.com/DS-StoryTeller/back-end)|2024 ICT 한이음 공모전 storyteller|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <br><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">|
 |[STUCK](https://github.com/2024-HERETHON/2024-Herethon-2)|멋쟁이사자처럼 2024 여대 연합 해커톤 [여기톤] 🥈|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
 |[2024 근화제 찬란](https://github.com/2024-LIKELION-DS/DSFest_BE)|2024 근화제 '찬란' 웹사이트|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
 |[덕멋 합격자 조회](https://github.com/2024-LIKELION-DS/2024-BABYLION-Backend)|2024 덕성여자대학교 멋쟁이사자처럼 합격자 조회(private)|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">|
@@ -63,9 +62,6 @@
 |[WELLNEVE](https://github.com/2023-HERETHON/2023-Herethon-8)|멋쟁이사자처럼 2023 여대 연합 해커톤 [여기톤]|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
 |[MUSICSHARE](https://github.com/gardening-y/MusicShare_2)|덕성여자대학교 멋쟁이사자처럼 토이 프로젝트|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
 
-
-
-![snake gif](https://github.com/7beunseo/7beunseo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
