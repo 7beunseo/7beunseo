@@ -47,7 +47,7 @@
 |[2024 근화제 찬란](https://github.com/2024-LIKELION-DS/DSFest_BE)|2024 근화제 '찬란' 웹사이트|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=3">|
 |[덕멋 합격자 조회](https://github.com/2024-LIKELION-DS/2024-BABYLION-Backend)|2024 덕성여자대학교 멋쟁이사자처럼 합격자 조회(private)|<img width="65px" src="https://skillicons.dev/icons?i=spring,aws&perline=3">|
 |[손틈새로](https://github.com/a-minute-society/back-end-deploy)|멋쟁이사자처럼 운영진 연합 해커톤 [트렌디톤] 🥇|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=3">|
-|[MY POLYGON](https://github.com/CornerTone/MyPolygon-BE)|코너 내부 해커톤 [코너톤]|<img width="65px" src="https://skillicons.dev/icons?i=django,react&perline=3">|
+|[MY POLYGON](https://github.com/CornerTone/MyPolygon-BE)|코너 내부 해커톤 [코너톤]|<img width="65px" src="https://skillicons.dev/icons?i=nodejs,react&perline=3">|
 |[CODEQUEST](https://github.com/7beunseo/codequest)|덕성여자대학교 교수자 학습자 콜라보 |<img width="65px" src="https://skillicons.dev/icons?i=django,aws&perline=3">|
 
 ### 2️⃣0️⃣2️⃣3️⃣
