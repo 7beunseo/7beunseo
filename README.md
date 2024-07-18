@@ -42,25 +42,25 @@
 ### 2️⃣0️⃣2️⃣4️⃣
 |NAME| DESCRIPT |STACK|
 |:---|:---|:---|
-|[STORYTELLER](https://github.com/DS-StoryTeller/back-end)|2024 ICT 한이음 공모전 storyteller|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <br><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">|
-|[STUCK](https://github.com/2024-HERETHON/2024-Herethon-2)|멋쟁이사자처럼 2024 여대 연합 해커톤 [여기톤] 🥈|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
-|[2024 근화제 찬란](https://github.com/2024-LIKELION-DS/DSFest_BE)|2024 근화제 '찬란' 웹사이트|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
-|[덕멋 합격자 조회](https://github.com/2024-LIKELION-DS/2024-BABYLION-Backend)|2024 덕성여자대학교 멋쟁이사자처럼 합격자 조회(private)|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">|
-|[손틈새로](https://github.com/a-minute-society/back-end-deploy)|멋쟁이사자처럼 운영진 연합 해커톤 [트렌디톤] 🥇|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
-|[MY POLYGON](https://github.com/CornerTone/MyPolygon-BE)|코너 내부 해커톤 [코너톤]|<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">|
-|[CODEQUEST](https://github.com/7beunseo/codequest)|덕성여자대학교 교수자 학습자 콜라보 |<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">|
+|[STORYTELLER](https://github.com/DS-StoryTeller/back-end)|2024 ICT 한이음 공모전 storyteller|<img width="100px" src="https://skillicons.dev/icons?i=spring,aws,docker&perline=3">|
+|[STUCK](https://github.com/2024-HERETHON/2024-Herethon-2)|멋쟁이사자처럼 2024 여대 연합 해커톤 [여기톤] 🥈|<img width="30px" src="https://skillicons.dev/icons?i=django&perline=3">|
+|[2024 근화제 찬란](https://github.com/2024-LIKELION-DS/DSFest_BE)|2024 근화제 '찬란' 웹사이트|<img width="30px" src="https://skillicons.dev/icons?i=django&perline=3">|
+|[덕멋 합격자 조회](https://github.com/2024-LIKELION-DS/2024-BABYLION-Backend)|2024 덕성여자대학교 멋쟁이사자처럼 합격자 조회(private)|<img width="65px" src="https://skillicons.dev/icons?i=spring,aws&perline=3">|
+|[손틈새로](https://github.com/a-minute-society/back-end-deploy)|멋쟁이사자처럼 운영진 연합 해커톤 [트렌디톤] 🥇|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=3">|
+|[MY POLYGON](https://github.com/CornerTone/MyPolygon-BE)|코너 내부 해커톤 [코너톤]|<img width="65px" src="https://skillicons.dev/icons?i=django,react&perline=3">|
+|[CODEQUEST](https://github.com/7beunseo/codequest)|덕성여자대학교 교수자 학습자 콜라보 |<img width="65px" src="https://skillicons.dev/icons?i=django,aws&perline=3">|
 
 ### 2️⃣0️⃣2️⃣3️⃣
 |NAME| DESCRIPT |STACK|
 |:---|:---|:---|
-|[ALCHANSO](https://github.com/InternetProgramming7/group7)|인터넷프로그래밍 팀 프로젝트|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">|
-|[TOTREE](https://github.com/likelion-2023-2/Advent_calender/tree/back)|멋쟁이시자차럼 2학기 크리스마스 편지 프로젝트|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">|
-|[밀리의 서재 클론코딩](https://github.com/likelion-2023-2/side-project/tree/back)|Spring Boot 스터디|<img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">|
-|[WISCOM](https://github.com/2023WISCOM/WISCOM-BE)|2023 덕성여자대학교 컴퓨터공학전공 온라인 졸업전시회|<img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">|
-|[WELLDUK](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-09)|덕성여자대학교 연합 해커톤|<img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white">|
-|[Jagmuldan](https://github.com/place0/Jagmuldan)|멋쟁이사자처럼 중앙 해커톤|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">|
-|[WELLNEVE](https://github.com/2023-HERETHON/2023-Herethon-8)|멋쟁이사자처럼 2023 여대 연합 해커톤 [여기톤]|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
-|[MUSICSHARE](https://github.com/gardening-y/MusicShare_2)|덕성여자대학교 멋쟁이사자처럼 토이 프로젝트|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">|
+|[ALCHANSO](https://github.com/InternetProgramming7/group7)|인터넷프로그래밍 팀 프로젝트|<img width="65px" src="https://skillicons.dev/icons?i=django,aws&perline=3">|
+|[TOTREE](https://github.com/likelion-2023-2/Advent_calender/tree/back)|멋쟁이시자차럼 2학기 크리스마스 편지 프로젝트|<img width="65px" src="https://skillicons.dev/icons?i=spring,aws&perline=3">|
+|[밀리의 서재 클론코딩](https://github.com/likelion-2023-2/side-project/tree/back)|Spring Boot 스터디|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=3">|
+|[WISCOM](https://github.com/2023WISCOM/WISCOM-BE)|2023 덕성여자대학교 컴퓨터공학전공 온라인 졸업전시회|<img width="65px" src="https://skillicons.dev/icons?i=django,aws&perline=3">|
+|[WELLDUK](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-09)|덕성여자대학교 연합 해커톤|<img width="30px" src="https://skillicons.dev/icons?i=django&perline=3"> |
+|[Jagmuldan](https://github.com/place0/Jagmuldan)|멋쟁이사자처럼 중앙 해커톤|<img width="65px" src="https://skillicons.dev/icons?i=django,aws&perline=3">|
+|[WELLNEVE](https://github.com/2023-HERETHON/2023-Herethon-8)|멋쟁이사자처럼 2023 여대 연합 해커톤 [여기톤]|<img width="30px" src="https://skillicons.dev/icons?i=django&perline=3">|
+|[MUSICSHARE](https://github.com/gardening-y/MusicShare_2)|덕성여자대학교 멋쟁이사자처럼 토이 프로젝트|<img width="30px" src="https://skillicons.dev/icons?i=django&perline=3">|
 
 
 </div>
