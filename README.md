@@ -6,6 +6,7 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=7beunseo&column=3&margin-w=15&margin-h=15)<br><br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7beunseo&show_icons=true&theme=transparent)<br><br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=7beunseo)](https://git.io/streak-stats)
 
 ### 🌱 I’m currently learning 🌱
 
