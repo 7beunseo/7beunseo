@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-
   
 #### 📌 FRONTEND
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,10 +24,11 @@
   <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white">
   
 #### 📌 BACKEND
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
@@ -45,7 +44,7 @@
 |NAME| DESCRIPT |STACK|
 |:---|:---|:---|
 |[경기푸른미래관](https://github.com/GBFH-APP/GBFH_BE)|경기 푸른 미래관 애플리케이션 개발|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=1">|
-|[POKSIN](https://github.com/TeamViewMore)|2024 멋쟁이사자처럼 중앙 해커톤|<img width="135px" src="https://skillicons.dev/icons?i=spring,django,aws,docker&perline=4">|
+|[POKSIN](https://github.com/TeamViewMore)|2024 멋쟁이사자처럼 중앙 해커톤<br>2024 어흥콘 참신상 대상, 베스트 회고상🏆|<img width="135px" src="https://skillicons.dev/icons?i=spring,django,aws,docker&perline=4">|
 |[OHMEA](https://github.com/orgs/Bamsongee/repositories)|2024 ICT 한이음 공모전 ohmea|<img width="135px" src="https://skillicons.dev/icons?i=spring,flask,aws,docker&perline=4">|
 |[STORYTELLER](https://github.com/DS-StoryTeller/back-end)|2024 ICT 한이음 공모전 storyteller|<img width="100px" src="https://skillicons.dev/icons?i=spring,aws,docker&perline=3">|
 |[STUCK](https://github.com/2024-HERETHON/2024-Herethon-2)|멋쟁이사자처럼 2024 여대 연합 해커톤 [여기톤] 🥈|<img width="65px" src="https://skillicons.dev/icons?i=django,googlecloud&perline=3">|
