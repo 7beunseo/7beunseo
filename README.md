@@ -47,7 +47,7 @@
 |[경기푸른미래관](https://github.com/GBFH-APP/GBFH_BE)|경기 푸른 미래관 애플리케이션 개발|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=1">|
 |[POKSIN](https://github.com/TeamViewMore)|2024 멋쟁이사자처럼 중앙 해커톤<br>2024 어흥콘 참신상 대상, 베스트 회고상🏆|<img width="135px" src="https://skillicons.dev/icons?i=spring,django,aws,docker&perline=4">|
 |[OHMEA](https://github.com/orgs/Bamsongee/repositories)|2024 ICT 한이음 공모전 ohmea|<img width="170px" src="https://skillicons.dev/icons?i=react,spring,flask,aws,docker&perline=5">|
-|[STORYTELLER](https://github.com/DS-StoryTeller/back-end)|2024 ICT 한이음 공모전 storyteller 🏅 입선|<img width="100px" src="https://skillicons.dev/icons?i=spring,aws,docker&perline=3">|
+|[STORYTELLER](https://github.com/DS-StoryTeller/back-end)|2024 ICT 한이음 공모전 storyteller 입선🏆|<img width="100px" src="https://skillicons.dev/icons?i=spring,aws,docker&perline=3">|
 |[STUCK](https://github.com/2024-HERETHON/2024-Herethon-2)|멋쟁이사자처럼 2024 여대 연합 해커톤 [여기톤] 🥈|<img width="65px" src="https://skillicons.dev/icons?i=django,googlecloud&perline=3">|
 |[2024 근화제 찬란](https://github.com/2024-LIKELION-DS/DSFest_BE)|2024 근화제 '찬란' 웹사이트|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=3">|
 |[덕멋 합격자 조회](https://github.com/7beunseo/2024-BABYLION-Backend)|2024 덕성여자대학교 멋쟁이사자처럼 합격자 조회|<img width="65px" src="https://skillicons.dev/icons?i=spring,aws&perline=3">|
