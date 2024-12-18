@@ -43,6 +43,7 @@
 ### 2️⃣0️⃣2️⃣4️⃣
 |NAME| DESCRIPT |STACK|
 |:---|:---|:---|
+|[CARELY](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_43_BE)|2024 구름톤 유니브 단풍톤 Carely|<img width="100px" src="https://skillicons.dev/icons?i=spring,aws,docker&perline=4">|
 |[WISCOM](https://github.com/2024WISCOM)|2024 덕성여자대학교 컴퓨터공학전공 온라인 졸업전시회|<img width="135px" src="https://skillicons.dev/icons?i=react,spring,aws,docker&perline=4">|
 |[경기푸른미래관](https://github.com/GBFH-APP/GBFH_BE)|경기 푸른 미래관 애플리케이션 개발|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=1">|
 |[POKSIN](https://github.com/TeamViewMore)|2024 멋쟁이사자처럼 중앙 해커톤<br>2024 어흥콘 참신상 대상, 베스트 회고상🏆|<img width="135px" src="https://skillicons.dev/icons?i=spring,django,aws,docker&perline=4">|
