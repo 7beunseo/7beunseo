@@ -40,6 +40,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7beunseo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+### 2️⃣0️⃣2️⃣5️⃣
+|NAME| DESCRIPT |STACK|
+|:---|:---|:---|
+|[QAStudio](https://github.com/QASTUDIODEV/SERVER_QASTUDIO)|2025 UMC 데모데이|<img width="30px" src="https://skillicons.dev/icons?i=spring&perline=3">|
+|[Corner Hompage](https://github.com/DS-Corner-Page/cornerpage_front)|2025 코너 홈페이지|<img width="65px" src="https://skillicons.dev/icons?i=react,vercel&perline=3">|
+|[PAYRING](https://github.com/DS-Payring/back-end)|코너 내부 해커톤 [코너톤]|<img width="100px" src="https://skillicons.dev/icons?i=spring,aws,docker&perline=4">|
+
+
 ### 2️⃣0️⃣2️⃣4️⃣
 |NAME| DESCRIPT |STACK|
 |:---|:---|:---|
